@@ -6,6 +6,6 @@ Starfinder is a adapted Pathfinder roleplaying game ruleset in space from Paizo 
 
 ------------------------------------------------------------------------
 
-Starfinder ist das adaptierte Pathfinder RPG für Spielsettings im ScienceFiction-Universum der Spielwelt Golarion. Im englischsprachigen Raum erscheint es im Verlag von Paizo, die deutsche Übersetzung und Vertrieb erfolgt durch den Ulisses-Verlag.
+Starfinder ist das adaptierte Pathfinder RPG für Spielsettings im ScienceFantasy-Universum der Spielwelt Golarion. Im englischsprachigen Raum erscheint es im Verlag von Paizo, die deutsche Übersetzung und Vertrieb erfolgt durch den Ulisses-Verlag.
 
 Dieser Charakterbogen ist eine komplete Übersetzung des englichen "Starfinder (simple) Sheet" von Phillip Goettsch. Danke dafür.
